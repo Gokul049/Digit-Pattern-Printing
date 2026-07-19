@@ -1,0 +1,69 @@
+D:\pattern\AlphabetDigit>java Zero
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+D:\pattern\AlphabetDigit>java One
+    *
+  * *
+*   *
+    *
+* * * * *
+
+D:\pattern\AlphabetDigit>java Two
+* * * * *
+        *
+* * * * *
+*
+* * * * *
+
+D:\pattern\AlphabetDigit>java Three
+* * * * *
+        *
+* * * * *
+        *
+* * * * *
+
+D:\pattern\AlphabetDigit>java Four
+*       *
+*       *
+* * * * *
+        *
+        *
+
+D:\pattern\AlphabetDigit>java Five
+* * * * *
+*
+* * * * *
+        *
+* * * * *
+
+D:\pattern\AlphabetDigit>java Six
+* * * * *
+*
+* * * * *
+*       *
+* * * * *
+
+D:\pattern\AlphabetDigit>java Seven
+* * * * *
+        *
+        *
+        *
+        *
+
+D:\pattern\AlphabetDigit>java Eight
+* * * * *
+*       *
+* * * * *
+*       *
+* * * * *
+
+D:\pattern\AlphabetDigit>java Nine
+* * * * *
+*       *
+* * * * *
+        *
+* * * * *
